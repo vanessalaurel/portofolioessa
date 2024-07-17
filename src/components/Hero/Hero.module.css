@@ -23,6 +23,7 @@
   font-size: 72px;
   font-weight: 900;
   margin-bottom: 33px;
+  margin-top: -45%;
   font-family: var(--font-roboto);
   background: linear-gradient(
     90deg,
@@ -53,6 +54,7 @@
 .heroImg {
   width: 50%;
   z-index: 1;
+  margin-top: -35%;
 
   animation-name: floating;
   animation-duration: 3s;
@@ -81,7 +83,7 @@
   top: -128px;
   left: -10vw;
   border-radius: 764px;
-  background: rgba(25, 55, 109, 0.7);
+  background: #804664;
   filter: blur(100px);
   z-index: 0;
 }
@@ -95,7 +97,7 @@
   top: 246px;
   right: -25vw;
   border-radius: 764px;
-  background: rgba(25, 55, 109, 0.7);
+  background: #804664;
   filter: blur(100px);
   z-index: 0;
 }

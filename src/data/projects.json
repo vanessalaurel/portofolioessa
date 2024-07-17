@@ -1,26 +1,58 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Stock Trading Simulator",
+    "imageSrc": "projects/a.jpg",
+    "description": "a stock trading simulation game that practice user's skills in Asset management.",
+    "skills": ["React", "Typescript", "Node.js"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/vanessalaurel/StockMarketSimulation"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "title": "AI Interview summarizer",
+    "imageSrc": "projects/b.jpg",
+    "description": "an AI web based HR that can summarize and transcript online interview",
+    "skills": ["React", "AWS", "Node", "python"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/vanessalaurel/PwCHackathon2023-Frontend"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Chat App",
+    "imageSrc": "projects/chat.jpg",
+    "skills": ["React", "JWT", "Socket", "MongoDB"],
+    "description": "real-time chat application, leveraging JWT for authentication and authorization, and Socket.IO API for seamless real-time messaging",
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/vanessalaurel/PwCHackathon2023-Frontend"
+  },
+  {
+    "title": "Landing page",
+    "imageSrc": "projects/c.jpg",
+    "description": "Design of a company website landing page",
+    "skills": ["React", "Tailwind"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/vanessalaurel/alphaenergyiot"
+  },
+  {
+    "title": "fashion e-commerce website",
+    "imageSrc": "projects/d.jpg",
+    "description": "a responsive web based  fashion e-commerce example platform ",
+    "skills": ["React", "tailwind"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/vanessalaurel/Fashion-time"
+  },
+  {
+    "title": "book shop app",
+    "imageSrc": "projects/e.jpg",
+    "description": "A MERN stack web-based platform ",
+    "skills": ["React", "Express", "Node", "MySQL"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/vanessalaurel/bookshop"
+  },
+  {
+    "title": "weather app",
+    "imageSrc": "projects/f.jpg",
+    "description": "A weather web based platform that connect 2 kinds of APIs",
+    "skills": ["React", "Javascript", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/vanessalaurel/weatherapp"
   }
 ]

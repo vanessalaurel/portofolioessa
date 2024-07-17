@@ -4,10 +4,17 @@
   display: flex;
   flex-direction: column;
   border-radius: 10px;
-  background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
-  box-shadow: 0 16px 14px 0 #04152d;
+  background: linear-gradient(
+    180deg,
+    #7f2949 0%,
+    #680739 40%,
+    #6f073d 50%,
+    #3f0422 100%
+  );
+  box-shadow: 0 16px 14px 0 #2d0319;
   padding: 18px 24px;
-  max-width: 345px;
+  width: 340px;
+  height: 600px;
 }
 
 .image {
@@ -21,7 +28,7 @@
 
 .description {
   margin-top: 6px;
-  font-size: 25px;
+  font-size: 20px;
   font-weight: 400;
 }
 
@@ -36,7 +43,7 @@
 }
 
 .skill {
-  font-size: 25px;
+  font-size: 20px;
   font-weight: 400;
   border-radius: 100px;
   background: var(--color-dark);
